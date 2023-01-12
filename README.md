@@ -1,5 +1,5 @@
 
-This Application was created to help you to find an exact Article you need, just type a Title of an Article and Application will find you that one. To check this App follow the [link](https://1stIndominus.github.io/my-articles).
+This Application was created to help you to find an exact Article you need, just type a Title of an Article and Application will find you that one. To check this App follow the [link](https://1stIndominus.github.io/my-article).
 
 Cards with article titles and descriptions for 100 characters. The user can click on the card to go to an article page that contains the title and full description of the selected article.
 
